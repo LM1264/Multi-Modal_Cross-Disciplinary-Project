@@ -20,8 +20,8 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 | Project | Functionality | Output Preview1 | Output Preview2 | Output Preview3 | Output Preview4 |
 |--------|---------------|----------------|----------------|----------------|----------------|
-| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1](Screenshots/AI_recipe_suggestions.png) | ![Image2]() | ![Image3]() | ![Image4]() |
-| **Caption & Voice** | Auto-caption + voice-over | ![Image1]() |
+| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1](Screenshots/AI_recipe_suggestions.png) | ![Image2](Screenshots/Fp1.jpg) | ![Image3](Screenshots/Fp2.jpg) | ![Image4](Screenshots/Fp3.jpg) |
+| **Caption & Voice** | Auto-caption + voice-over | ![Image1](Screenshots/Img_Cap_&_Voice_Generated.png) |
 
 ---
 
@@ -112,7 +112,7 @@ This project is open source and available under the MIT License.
 This project is developed for academic and educational purposes only under the 2025 Summer Internship program at Sansoftech Services Pvt. Ltd..
 It may be reused for learning and demonstration with proper attribution.
 Do not use the ElevenLabs API key publicly or commercially.
-See the ![LICENSE]() file for further details.
+See the [LICENSE](LICENSE) file for further details.
 
 ---
 
@@ -150,7 +150,7 @@ See the ![LICENSE]() file for further details.
 
 ## 📷 Screenshots
 
-### Screenshots Folder included in the repo demonstrate:
+### [Screenshots Folder](Screenshots/) included in the repo demonstrate:
 - Detection results
 - Recipe suggestions
 - Image previews
@@ -169,4 +169,4 @@ See the ![LICENSE]() file for further details.
 - ipython
 
 ### Install using:
-pip install -r requirements.txt                
+pip install -r [requirements.txt](requirements.txt)                
