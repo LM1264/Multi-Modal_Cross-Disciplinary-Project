@@ -112,7 +112,7 @@ This project is open source and available under the MIT License.
 This project is developed for academic and educational purposes only under the 2025 Summer Internship program at Sansoftech Services Pvt. Ltd..
 It may be reused for learning and demonstration with proper attribution.
 Do not use the ElevenLabs API key publicly or commercially.
-See the [LICENSE](LICENSE.txt) file for further details.
+See the **[LICENSE](LICENSE.txt)** file for further details.
 
 ---
 
@@ -169,4 +169,4 @@ See the [LICENSE](LICENSE.txt) file for further details.
 - ipython
 
 ### Install using:
-pip install -r [requirements.txt](requirements.txt)                
+pip install -r **[requirements.txt](requirements.txt)**                
