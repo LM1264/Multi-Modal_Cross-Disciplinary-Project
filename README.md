@@ -62,13 +62,13 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 ├── AI_Recipe_Generator/
 
-│---├── recipe_generator.py
+│----├── recipe_generator.py
 
-│---├── yolov5/
+│----├── yolov5/
 
-│---├── runs/detect/exp*/Fp*.jpg
+│----├── runs/detect/exp*/Fp*.jpg
 
-│---└── recipes_output.txt
+│----└── recipes_output.txt
 
 ├── Image Caption & Voice Generator.ipynb
 
