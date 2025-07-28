@@ -26,3 +26,12 @@ __pycache__/
 
 # VS Code project settings (optional)
 .vscode/
+# Ignore heavy files
+*.pyd
+*.dll
+*.lib
+*.so
+*.bin
+*.pt
+*.onnx
+*.exe
