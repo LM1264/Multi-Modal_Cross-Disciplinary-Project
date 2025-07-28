@@ -1,0 +1,7 @@
+# Common dependencies
+torch
+opencv-python
+Pillow
+transformers
+requests
+ipython
