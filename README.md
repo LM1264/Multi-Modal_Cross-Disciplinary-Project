@@ -57,12 +57,19 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ---
 
 ## 📂 Folder Structure
-                                                                                                                                                                                                                   **📦Multi-Modal_Cross-Disciplinary-Project/                                                                                                                                                                                                                   ├── AI_Recipe_Generator/│   ├── recipe_generator.py│   ├── yolov5/│   ├── runs/detect/exp*/Fp*.jpg│   └── recipes_output.txt├── Image Caption & Voice Generator.ipynb
+**
+📦Multi-Modal_Cross-Disciplinary-Project/                                                                                                                                                                         ├── AI_Recipe_Generator/
+│   ├── recipe_generator.py
+│   ├── yolov5/
+│   ├── runs/detect/exp*/Fp*.jpg
+│   └── recipes_output.txt
+├── Image Caption & Voice Generator.ipynb
 ├── Fp1.jpg / Fp2.jpg / Fp3.jpg
 ├── README.md ✅
 ├── LICENSE ✅
 ├── requirements.txt ✅
-└── Project Report.docx**    
+└── Project Report.docx
+**
                                                                                                                                                                        
 ---
 
@@ -71,13 +78,13 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ### 🧑‍🍳 Recipe Generator
 
 **#Step into the project folder**
- cd AI_Recipe_Generator
+- cd AI_Recipe_Generator
 
 **#Activate virtual environment (if not already)**
- .\venv\Scripts\activate
+- .\venv\Scripts\activate
 
 **#Run the script**
- python recipe_generator.py
+- python recipe_generator.py
 
 ### 🖼️ Caption & Voice Generator
 
