@@ -109,7 +109,10 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ## 🔑 License
 
 This project is open source and available under the MIT License.
-See the ![LICENSE]() file for details.
+This project is developed for academic and educational purposes only under the 2025 Summer Internship program at Sansoftech Services Pvt. Ltd..
+It may be reused for learning and demonstration with proper attribution.
+Do not use the ElevenLabs API key publicly or commercially.
+See the ![LICENSE]() file for further details.
 
 ---
 
