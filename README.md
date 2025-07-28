@@ -20,7 +20,7 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 | Project | Functionality | Output Preview |
 |--------|---------------|----------------|
-| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1]() | ![Image2]() | ![Image3]() | ![Image4]()
+| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1]() | ![Image2]() | ![Image3]() | ![Image4]() |
 | **Caption & Voice** | Auto-caption + voice-over | ![Image1]() |
 
 ---
@@ -57,7 +57,7 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ---
 
 ## 📂 Folder Structure
-                                                                                                                                                                                                                   📦 Multi-Modal_Cross-Disciplinary-Project/                                                                                                                                                                        ├── AI_Recipe_Generator/
+                                                                                                                                                                                                                   📦 Multi-Modal_Cross-Disciplinary-Project/├── AI_Recipe_Generator/
 │   ├── recipe_generator.py
 │   ├── yolov5/
 │   ├── runs/detect/exp*/Fp*.jpg
@@ -68,7 +68,7 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ├── LICENSE ✅
 ├── requirements.txt ✅
 └── Project Report.docx    
-
+                                                                                                                                                                       
 ---
 
 ## 🧪 Installation & Run Instructions
