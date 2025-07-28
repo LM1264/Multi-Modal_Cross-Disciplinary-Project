@@ -20,8 +20,8 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 | Project | Functionality | Output Preview |
 |--------|---------------|----------------|
-| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1](AI_Recipe_Generator/Fp1.jpg) |
-| **Caption & Voice** | Auto-caption + voice-over | See notebook outputs in `Image Caption & Voice Generator.ipynb` |
+| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1]() | ![Image2]() | ![Image3]() | ![Image4]()
+| **Caption & Voice** | Auto-caption + voice-over | ![Image1]() |
 
 ---
 
@@ -57,8 +57,8 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ---
 
 ## 📂 Folder Structure
-                                                                                                                                                                                                                      📦 Multi-Modal_Cross-Disciplinary-Project/
-├── AI_Recipe_Generator/
+                                                                                                                                                                                                                   📦 Multi-Modal_Cross-Disciplinary-Project/
+                                                                                                                                                                                                                   ├── AI_Recipe_Generator/
 │   ├── recipe_generator.py
 │   ├── yolov5/
 │   ├── runs/detect/exp*/Fp*.jpg
@@ -76,13 +76,13 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 ### 🧑‍🍳 Recipe Generator
 
-# Step into the project folder
+**#Step into the project folder**
 cd AI_Recipe_Generator
 
-# Activate virtual environment (if not already)
+**#Activate virtual environment (if not already)**
 .\venv\Scripts\activate
 
-# Run the script
+**#Run the script**
 python recipe_generator.py
 
 ### 🖼️ Caption & Voice Generator
@@ -97,57 +97,61 @@ python recipe_generator.py
 ## 🔑 License
 
 This project is open source and available under the MIT License.
-See the LICENSE file for details.
+See the ![LICENSE]() file for details.
 
 ---
 
 ## 👨‍💻 Contributions
 
-*Developed and integrated YOLOv5-based ingredient detection.
-*Mapped object detection results to relevant recipes.
-*Implemented real-time image preview using OpenCV.
-*Created Google Colab notebook for BLIP-based image captioning.
-*Integrated ElevenLabs API for realistic voice generation.
-*Structured and documented both mini-projects under one repository.
-*Prepared university-compliant final report and ensured smooth GitHub deployment.
+- Developed and integrated YOLOv5-based ingredient detection.
+- Mapped object detection results to relevant recipes.
+- Implemented real-time image preview using OpenCV.
+- Created Google Colab notebook for BLIP-based image captioning.
+- Integrated ElevenLabs API for realistic voice generation.
+- Structured and documented both mini-projects under one repository.
+- Prepared university-compliant final report and ensured smooth GitHub deployment.
 
 ---
 
 ## 📅 Submission Info
--University: Guru Gobind Singh Indraprastha University
 
--Department: Bachelor of Computer Applications (BCA)
+- University: Guru Gobind Singh Indraprastha University
 
--Internship: Summer Internship 2025
+- Department: Bachelor of Computer Applications (BCA)
 
--Project Title: Multi-Modal and Cross-Disciplinary Project
+- Internship: Summer Internship 2025
 
--Company: Sansoftech Services Private Limited
+- Project Title: Multi-Modal and Cross-Disciplinary Project
 
--Mentor: Santanoo Pattnaik (CEO)
+- Company: Sansoftech Services Private Limited
 
--Faculty Advisor: Mr. Devanshu Dube
+- Mentor: Santanoo Pattnaik (CEO)
 
--Submission Date: 27th July, 2025
+- Faculty Advisor: Mr. Devanshu Dube
+
+- Submission Date: 27th July, 2025
 
 ---
 
 ## 📷 Screenshots
+
 ### Screenshots Folder included in the repo demonstrate:
--Detection results
--Recipe suggestions
--Image previews
--Captions and voice generation in Colab
+- Detection results
+- Recipe suggestions
+- Image previews
+- Captions and voice generation in Colab
 
 ---
 
 ## requirements
+
 ### Common dependencies
-torch
-opencv-python
-Pillow
-transformers
-requests
-ipython
+- torch
+- opencv-python
+- Pillow
+- transformers
+- requests
+- ipython
+- 
 ### Install using:
 pip install -r requirements.txt                
