@@ -20,7 +20,7 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 | Project | Functionality | Output Preview1 | Output Preview2 | Output Preview3 | Output Preview4 |
 |--------|---------------|----------------|----------------|----------------|----------------|
-| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1]() | ![Image2]() | ![Image3]() | ![Image4]() |
+| **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1]("C:\Users\WIN 11\OneDrive\Desktop\Multi-Modal or Cross-Disciplinary Projects\Screenshots\AI_recipe_suggestions.png") | ![Image2]() | ![Image3]() | ![Image4]() |
 | **Caption & Voice** | Auto-caption + voice-over | ![Image1]() |
 
 ---
