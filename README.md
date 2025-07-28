@@ -18,8 +18,8 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 
 ## 🚀 Live Demos / Outputs
 
-| Project | Functionality | Output Preview |
-|--------|---------------|----------------|
+| Project | Functionality | Output Preview |----------------|----------------|----------------|
+|--------|---------------|----------------|----------------|----------------|----------------|
 | **Recipe Generator** | Ingredient detection + recipe suggestion | ![Image1]() | ![Image2]() | ![Image3]() | ![Image4]() |
 | **Caption & Voice** | Auto-caption + voice-over | ![Image1]() |
 
@@ -86,10 +86,10 @@ python recipe_generator.py
 
 ### 🖼️ Caption & Voice Generator
 
-1.Open Image Caption & Voice Generator.ipynb in Google Colab.
-2.Upload an image when prompted.
-3.Enter your ElevenLabs API key.
-4.Run the cells to get the caption and audio.
+1. Open Image Caption & Voice Generator.ipynb in Google Colab.
+2. Upload an image when prompted.
+3. Enter your ElevenLabs API key.
+4. Run the cells to get the caption and audio.
 
 ---
 
@@ -151,6 +151,6 @@ See the ![LICENSE]() file for details.
 - transformers
 - requests
 - ipython
-- 
+
 ### Install using:
 pip install -r requirements.txt                
