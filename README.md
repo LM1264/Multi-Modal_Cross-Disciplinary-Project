@@ -57,8 +57,7 @@ Generates image captions using BLIP (by Salesforce) and then converts those capt
 ---
 
 ## 📂 Folder Structure
-                                                                                                                                                                                                                   📦 Multi-Modal_Cross-Disciplinary-Project/
-                                                                                                                                                                                                                   ├── AI_Recipe_Generator/
+                                                                                                                                                                                                                   📦 Multi-Modal_Cross-Disciplinary-Project/                                                                                                                                                                        ├── AI_Recipe_Generator/
 │   ├── recipe_generator.py
 │   ├── yolov5/
 │   ├── runs/detect/exp*/Fp*.jpg
